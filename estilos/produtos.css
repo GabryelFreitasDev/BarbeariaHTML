@@ -84,7 +84,7 @@ nav a:active{
 footer{
     text-align: center;
     padding: 40px 0;
-    background: url("bg.jpg");
+    background: url("../imagens/bg.jpg");
 }
 
 .copyright{
